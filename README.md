@@ -13,7 +13,7 @@ Hi, I'm Simranjeet Kaur, a student in the Computer Systems Technology program at
 ## Guides
 
 - [ ] Password reset and account unlock
-- [ ] Can't connect to Wi-Fi
+- [x] [Can't connect to Wi-Fi](guides/02-cant-connect-to-wifi.md)
 - [ ] Printer offline
 - [ ] Computer running slow
 - [ ] Outlook / email not syncing
